@@ -1,1 +1,1 @@
-print ("Ahora estoy editandoo el fichero")
+print ("new Ahora estoy editandoo el fichero")
